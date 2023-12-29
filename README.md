@@ -13,6 +13,7 @@ Versions
 =======================
 | String Blade | Laravel Version | 
 |--------------|----------------:|
+| 8.0          |      Laravel 10 |
 | 7.0          |       Laravel 9 |
 | 6.0          |       Laravel 8 |
 | 5.0          |       Laravel 7 |
